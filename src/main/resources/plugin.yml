@@ -1,0 +1,18 @@
+name: AnvilBoundless
+version: 1.0.0
+main: com.flyaway.anvilboundless.AnvilBoundless
+api-version: '1.21'
+author: FlyAwayMaking
+website: https://github.com/flyawaymaking
+description: Убирает ограничения наковальни
+
+commands:
+  anvilboundless:
+    description: Основная команда плагина
+    usage: /<command> [reload]
+    permission: anvilboundless.reload
+
+permissions:
+  anvilboundless.reload:
+    description: Позволяет перезагружать конфиг
+    default: op

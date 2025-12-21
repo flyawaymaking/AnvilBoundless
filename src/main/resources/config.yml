@@ -1,0 +1,10 @@
+# AnvilBoundless Configuration
+
+# Обойти ограничение "Слишком дорого!"
+bypass-too-expensive: true
+
+# Максимальная стоимость в наковальне (если 0, то неограниченно)
+max-repair-cost: 39
+
+# Сохранять сверхмаксимальные уровни зачарований
+keep-overleveled-enchants: true
