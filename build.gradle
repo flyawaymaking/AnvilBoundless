@@ -26,3 +26,13 @@ dependencies {
 tasks.jar {
     archiveBaseName.set("AnvilBoundless")
 }
+
+tasks.processResources {
+    filesMatching("plugin.yml") {
+        expand(
+                version: project.version,
+                name: project.name,
+                group: project.group
+        )
+    }
+}

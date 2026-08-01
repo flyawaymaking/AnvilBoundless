@@ -1,6 +1,6 @@
-name: AnvilBoundless
-version: 1.0.0
-main: com.flyaway.anvilboundless.AnvilBoundless
+name: ${name}
+version: ${version}
+main: ${group}.${name}
 api-version: '1.21'
 author: FlyAwayMaking
 website: https://github.com/flyawaymaking
