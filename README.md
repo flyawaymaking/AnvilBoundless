@@ -1,5 +1,8 @@
 # AnvilBoundless
 
+[![Modrinth Downloads](https://img.shields.io/modrinth/dt/anvilboundless?logo=modrinth&label=downloads&color=1bd96a)](https://modrinth.com/plugin/anvilboundless)
+[![Modrinth Followers](https://img.shields.io/modrinth/followers/anvilboundless?logo=modrinth&label=followers&color=1bd96a)](https://modrinth.com/plugin/anvilboundless)
+
 Плагин для Minecraft серверов на Paper, который убирает раздражающие ограничения наковальни и дает процесс объединения предметов более предсказуемым.
 
 ## 🧩 Совместимость с версиями
